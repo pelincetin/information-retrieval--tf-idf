@@ -1,7 +1,7 @@
-##TEAMMATES: 
+## TEAMMATES: 
 Pelin Cetin (pc2807) and Justin Zwick (jaz2130)
 
-##FILES: 
+## FILES: 
 proj1.tar.gz (which when uncompressed includes search.py and stopwords.txt), readme.txt, query-transcripts.txt
 
 JSON API KEY: ""
@@ -28,7 +28,7 @@ SEARCH ENGINE ID: ""
 		- For our term weights, we use alpha = 1.0, beta = 0.8, and gamma = 0.1, since this is what Wikipedia said is most common.
 		- Then, using the modified query vector calculated via Rocchio's algorithm, we take the two terms with the highest value (that aren't already in the query) and add them to the query
 		- repeat the above until desired precision is achieved
-	NOTES:
+	# NOTES:
 		- We don't do anything special for handling non-html files. We didn't download and analyze the full results -- only the summaries that Google returns -- so we didn't see a need for this.
 	
 
