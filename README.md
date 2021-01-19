@@ -1,18 +1,20 @@
-TEAMMATES: Pelin Cetin (pc2807) and Justin Zwick (jaz2130)
+##TEAMMATES: 
+Pelin Cetin (pc2807) and Justin Zwick (jaz2130)
 
-FILES: proj1.tar.gz (which when uncompressed includes search.py and stopwords.txt), readme.txt, query-transcripts.txt
+##FILES: 
+proj1.tar.gz (which when uncompressed includes search.py and stopwords.txt), readme.txt, query-transcripts.txt
 
 JSON API KEY: ""
 
 SEARCH ENGINE ID: ""
 
-HOW TO RUN OUR CODE: 
+## HOW TO RUN OUR CODE: 
 	sudo apt install python3-pip
 	pip3 install google-api-python-client
 	pip3 install numpy
 	python3 search.py <google api key> <google engine id> <precision> <query>
 
-CODE EXPLANATION: 
+## CODE EXPLANATION: 
 	INTERNAL DESIGN / QUERY MODIFICATION METHOD: 
 		- First, we extract the basic arguments from the command line that we need to send a request to the gse api.
 		- Then, we build our set of stopwords. We made the assumption that query's to our service would be made in English. We used the NLTK's list of English stop words, 
