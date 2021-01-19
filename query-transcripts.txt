@@ -1,0 +1,622 @@
+python3 search.py "JSON API" "SEARCH ENGINE ID" 0.9 "brin"
+
+Result 1:
+[
+  URL:https://www.davidbrin.com/
+  Title:worlds of David Brin
+  Summary:The official website of best-selling science fiction writer and futurist DAVID BRIN.
+]
+
+Relevant (Y/N)?n
+Result 2:
+[
+  URL:https://en.wikipedia.org/wiki/Sergey_Brin
+  Title:Sergey Brin - Wikipedia
+  Summary:Sergey Mikhaylovich Brin is an American computer scientist and Internet
+entrepreneur. Together with Larry Page, he co-founded Google. Brin was the
+president ...
+]
+
+Relevant (Y/N)?y
+Result 3:
+[
+  URL:https://en.wiktionary.org/wiki/brin
+  Title:brin - Wiktionary
+  Summary:The imported definitions may be significantly out of date, and any more recent
+senses may be completely missing. (See the entry for brin in Webster's Revised ...
+]
+
+Relevant (Y/N)?n
+Result 4:
+[
+  URL:https://www.forbes.com/profile/sergey-brin/
+  Title:Sergey Brin
+  Summary:Sergey Brin stepped down as president of Alphabet, parent company of Google,
+in December 2019 but remains a controller shareholder and a board member.
+]
+
+Relevant (Y/N)?y
+Result 5:
+[
+  URL:https://brin.ai/
+  Title:BRiN - The World's First 24/7 Business Advisor, Entrepreneur Coach ...
+  Summary:Introducing BRiN - Your Personal Business Advisor. Download BRiN today & get
+instant access to real-time support and hundreds of business education videos.
+]
+
+Relevant (Y/N)?n
+Result 6:
+[
+  URL:https://www.postgresql.org/docs/9.5/brin-intro.html
+  Title:BRIN
+  Summary:Introduction. BRIN stands for Block Range Index. BRIN is designed for handling
+very large tables in which certain columns have some natural correlation with ...
+]
+
+Relevant (Y/N)?n
+Result 7:
+[
+  URL:https://www.bloomberg.com/billionaires/profiles/sergey-brin/
+  Title:Bloomberg Billionaires Index - Sergey Brin
+  Summary:Bloomberg Billionaires Index. View profiles for each of the world's 500 richest
+people, see the biggest movers, and compare fortunes or track returns. ❮ # 7
+Larry ...
+]
+
+Relevant (Y/N)?y
+Result 8:
+[
+  URL:https://www.wsj.com/articles/SB10001424052748704266504575141064259998090
+  Title:Brin Drove Google to Pull Back in China - WSJ
+  Summary:Mar 24, 2010 ... Behind Google's decision to shutter its China-based search engine was co-
+founder Sergey Brin's change of heart about the compromises ...
+]
+
+Relevant (Y/N)?y
+Result 9:
+[
+  URL:https://www.theverge.com/2017/1/28/14428262/google-sergey-brin
+  Title:Google co-founder Sergey Brin joins protest against immigration ...
+  Summary:Jan 28, 2017 ... Sergey Brin, Google co-founder and president of Alphabet, joined protesters at
+San Francisco International Airport tonight as demonstrators ...
+]
+
+Relevant (Y/N)?y
+Result 10:
+[
+  URL:https://www.biography.com/business-figure/sergey-brin
+  Title:Sergey Brin - Education, Google & Wife - Biography
+  Summary:Dec 4, 2019 ... Sergey Brin is a computer scientist who created Google with Larry Page, the two
+becoming billionaires as Google developed into the world's ...
+]
+
+Relevant (Y/N)?y
+The words google and president are the next words to augment the query with.
+===============================
+FEEDBACK SUMMARY
+Query: brin
+Precision 0.6
+Still below the desired precision of 0.9. Beginning another round...
+===============================
+Result 1:
+[
+  URL:https://abcnews.go.com/Business/google-founders-larry-page-sergey-brin-stepping-company/story?id=67472607
+  Title:Google founders Larry Page and Sergey Brin stepping down as ...
+  Summary:Dec 3, 2019 ... Google's founder Larry Page and Sergey Brin stepping down from their executive
+roles.
+]
+
+Relevant (Y/N)?y
+Result 2:
+[
+  URL:https://www.businessinsider.com/alphabet-larry-page-sergey-brin-stepping-down-sundar-pichai-2019-12
+  Title:Alphabet CEO Larry Page, President Sergey Brin stepping down ...
+  Summary:Dec 3, 2019 ... Google CEO Sundar Pichai will succeed Alphabet CEO Larry Page, who
+cofounded Google with Sergey Brin in 1998.
+]
+
+Relevant (Y/N)?y
+Result 3:
+[
+  URL:https://en.wikipedia.org/wiki/Sergey_Brin
+  Title:Sergey Brin - Wikipedia
+  Summary:Sergey Mikhaylovich Brin is an American computer scientist and Internet
+entrepreneur. Together with Larry Page, he co-founded Google. Brin was the
+president ...
+]
+
+Relevant (Y/N)?y
+Result 4:
+[
+  URL:https://www.businessinsider.com/sergey-brin-google-alphabet-life-photos-2016-12
+  Title:Sergey Brin: Life of Google cofounder, former Alphabet president ...
+  Summary:Dec 4, 2019 ... Google cofounder Sergey Brin is stepping down as Alphabet's president. Take a
+look inside his eccentric and wildly successful life.
+]
+
+Relevant (Y/N)?y
+Result 5:
+[
+  URL:https://www.npr.org/2019/12/03/784570156/google-founders-brin-page-step-down-pichai-takes-over-as-alphabet-ceo
+  Title:Google Founders Sergey Brin, Larry Page Step Down; Pichai ...
+  Summary:Dec 3, 2019 ... Sundar Pichai will become CEO of Google and its parent, Alphabet. ... Google
+Founders Sergey Brin And Larry Page Step Down From Top ...
+]
+
+Relevant (Y/N)?y
+Result 6:
+[
+  URL:https://www.theguardian.com/technology/2019/dec/03/larry-page-google-alphabet-resign-sundar-pichai
+  Title:Google co-founders Page and Brin step down from parent company ...
+  Summary:Dec 3, 2019 ... Current Google CEO will also manage Alphabet under one role in bid to 'simplify
+management structure'
+]
+
+Relevant (Y/N)?y
+Result 7:
+[
+  URL:https://www.theverge.com/2017/1/28/14428262/google-sergey-brin
+  Title:Google co-founder Sergey Brin joins protest against immigration ...
+  Summary:Jan 28, 2017 ... Sergey Brin, Google co-founder and president of Alphabet, joined protesters at
+San Francisco International Airport tonight as demonstrators ...
+]
+
+Relevant (Y/N)?y
+Result 8:
+[
+  URL:https://www.cnbc.com/2019/12/03/larry-page-steps-down-as-ceo-of-alphabet.html
+  Title:Larry Page steps down as CEO of Alphabet, Sundar Pichai to take ...
+  Summary:Dec 3, 2019 ... Co-founder Sergey Brin will also step down as president of the company. ...
+Alphabet CEO Larry Page will step down from the role and Google ...
+]
+
+Relevant (Y/N)?y
+Result 9:
+[
+  URL:https://www.theverge.com/2019/12/3/20994218/google-alphabet-ceo-sundar-pichai-larry-page-sergey-brin-step-down-control-management
+  Title:Google co-founders Larry Page and Sergey Brin relinquish control ...
+  Summary:Dec 3, 2019 ... Going forward, Sundar will be the CEO of both Google and Alphabet,” Page and
+Brin wrote. “We've never been ones to hold on to management ...
+]
+
+Relevant (Y/N)?y
+Result 10:
+[
+  URL:https://nypost.com/2019/12/03/googles-larry-page-and-sergey-brin-stepping-down-from-top-roles/
+  Title:Google's Larry Page and Sergey Brin stepping down from top roles
+  Summary:Dec 3, 2019 ... Google's chief executive Sundar Pichai will now take over the ... Alphabet; and
+Brin, who had been president of Google, according to a Tuesday ...
+]
+
+Relevant (Y/N)?y
+The words step and founders are the next words to augment the query with.
+===============================
+FEEDBACK SUMMARY
+Query: brin google president
+Precision 1.0
+Desired precision reached, done
+We achieved precision of 1.0! Your desired precision was 0.9
+===============================
+
+
+
+
+
+
+
+
+
+
+python3 search.py "JSON API" "SEARCH ENGINE ID" 0.9 "per se"
+
+Result 1:
+[
+  URL:https://www.thomaskeller.com/perseny
+  Title:Per Se | Thomas Keller Restaurant Group
+  Summary:Per Se entrance. center. Macadamia nut dipped in chocolate. left. Mini meat filled
+pastries. right. Per Se Salon. center. Fish and vegetables. right. Oysters and ...
+]
+
+Relevant (Y/N)?y
+Result 2:
+[
+  URL:https://en.wikipedia.org/wiki/Per_se
+  Title:Per se - Wikipedia
+  Summary:Per se may refer to: per se, a Latin phrase meaning "by itself" or "in itself". Illegal
+per se, the legal usage in criminal and antitrust law; Negligence per se, legal ...
+]
+
+Relevant (Y/N)?n
+Result 3:
+[
+  URL:https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+  Title:Per Se
+  Summary:Daily Menus Two tasting menus are offered daily: a nine-course chef's tasting
+menu, as well as a nine-course vegetable tasting menu. No single ingredient is ...
+]
+
+Relevant (Y/N)?y
+Result 4:
+[
+  URL:https://www.merriam-webster.com/dictionary/perse
+  Title:Perse | Definition of Perse by Merriam-Webster
+  Summary:Perse definition is - of a dark grayish blue resembling indigo. How to use perse in
+a sentence. Did You Know?
+]
+
+Relevant (Y/N)?n
+Result 5:
+[
+  URL:https://www.vocabulary.com/dictionary/per%20se
+  Title:per se - Dictionary Definition : Vocabulary.com
+  Summary:Per se is the phrase to use when you want to refer to a particular thing on its own.
+It is not this Latin phrase, per se, that is important, but rather the concept it ...
+]
+
+Relevant (Y/N)?n
+Result 6:
+[
+  URL:https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+  Title:At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+  Summary:Jan 12, 2016 ... Such is Per Se's mystique that I briefly wondered if the failure to bring her a new
+napkin could have been intentional. The restaurant's identity, to ...
+]
+
+Relevant (Y/N)?y
+Result 7:
+[
+  URL:https://m.yelp.com/biz/per-se-new-york
+  Title:Per Se - See 6159 Photos & 1649 Reviews - French - 10 Columbus ...
+  Summary:1649 reviews of Per Se "My husband took me to Per Se for my birthday dinner
+and honestly, I was a little worried it wouldn't stand up to all the hype. But man ...
+]
+
+Relevant (Y/N)?y
+Result 8:
+[
+  URL:https://en.wiktionary.org/wiki/per_se
+  Title:per se - Wiktionary
+  Summary:Some people say that a hangover is caused by impurities in the drink, not by the
+alcohol per se. (chiefly in negative polarity environments) In a true or literal ...
+]
+
+Relevant (Y/N)?n
+Result 9:
+[
+  URL:https://www.dictionary.com/browse/per-se
+  Title:Per se | Definition of Per se at Dictionary.com
+  Summary:Per se definition, by, of, for, or in itself; intrinsically: This candidate is not a pacifist
+per se, but he is in favor of peaceful solutions when practicable. See more.
+]
+
+Relevant (Y/N)?n
+Result 10:
+[
+  URL:https://dictionary.cambridge.org/dictionary/english/per-se
+  Title:PER SE | meaning in the Cambridge English Dictionary
+  Summary:5 days ago ... There was not an explicit governance pact or peace settlement per se, which
+resulted in recurring crises of governance throughout the 1990s.
+]
+
+Relevant (Y/N)?n
+The words tasting and menu are the next words to augment the query with.
+===============================
+FEEDBACK SUMMARY
+Query: per se
+Precision 0.4
+Still below the desired precision of 0.9. Beginning another round...
+===============================
+Result 1:
+[
+  URL:https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+  Title:Per Se
+  Summary:Two tasting menus are offered daily: a nine-course chef's tasting menu, as well
+as a nine-course vegetable tasting menu. No single ingredient is ever repeated ...
+]
+
+Relevant (Y/N)?y
+Result 2:
+[
+  URL:https://www.thewholeworldisaplayground.com/the-per-se-experience-saturday-afternoon-lunch-in-new-york-with-three-michelin-stars/
+  Title:The Per Se Experience: Saturday Afternoon Lunch in New York with ...
+  Summary:Jan 16, 2014 ... It's often described as one of the best restaurants in New York City and I was
+expecting Per Se to blow my mind! We sampled a tasting menu ...
+]
+
+Relevant (Y/N)?y
+Result 3:
+[
+  URL:https://www.thomaskeller.com/perseny
+  Title:Per Se | Thomas Keller Restaurant Group
+  Summary:Menus & Stories. Menus & Stories; Daily Menus · Farmers & Foragers. Wine & ...
+Per Se entrance. center. Macadamia nut dipped in chocolate. left. Mini meat ...
+]
+
+Relevant (Y/N)?y
+Result 4:
+[
+  URL:https://www.donuts4dinner.com/2012/05/24/the-vegetarian-tasting-and-chefs-tasting-at-per-se/
+  Title:The Vegetarian Tasting and Chef's Tasting at Per Se – NYC ...
+  Summary:May 24, 2012 ... Per Se NYC Chef's Tasting Menu and Vegetarian Tasting Menu with Wine
+Pairings and Non-. The setting was simply elegant as always, with ...
+]
+
+Relevant (Y/N)?y
+Result 5:
+[
+  URL:https://www.tripadvisor.com/Restaurant_Review-g60763-d425628-Reviews-Per_Se-New_York_City_New_York.html
+  Title:Per Se, New York City - Hell's Kitchen - Menu, Prices & Restaurant ...
+  Summary:Apr 5, 2015 ... Per Se, New York City: See 1826 unbiased reviews of Per Se, rated 4.5 ... nine-
+course tasting menu and a nine-course vegetable tasting menu ...
+]
+
+Relevant (Y/N)?y
+Result 6:
+[
+  URL:https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+  Title:At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+  Summary:Jan 12, 2016 ... Enough, also, to make the perception of Per Se as one of the country's ... limited
+to a vegetable tasting or a chef's tasting menu with few options.
+]
+
+Relevant (Y/N)?y
+Result 7:
+[
+  URL:https://m.yelp.com/biz/per-se-new-york
+  Title:Per Se - See 6159 Photos & 1649 Reviews - French - 10 Columbus ...
+  Summary:1649 reviews of Per Se "My husband took me to Per Se for my birthday dinner
+and ... The tasting menu was outstanding.... down to the tiniest details (butter, ...
+]
+
+Relevant (Y/N)?y
+Result 8:
+[
+  URL:https://ny.eater.com/2019/7/24/20706200/per-se-thomas-keller-corey-chow-nyc-restaurants
+  Title:Manhattan Restaurant Per Se from Thomas Keller May Finally Be a ...
+  Summary:Jul 24, 2019 ... Thomas Keller's Columbus Circle tasting menu, under chef Corey Chow, has far
+more wins than in the past.
+]
+
+Relevant (Y/N)?y
+Result 9:
+[
+  URL:https://thepricehike.com/post/13504143372/explaining-per-ses-685-menu-wine-is-extra
+  Title:Explaining Per Se's $685 Menu (Wine Is Extra)
+  Summary:Explaining Per Se's $685 Menu (Wine Is Extra) Thomas Keller's service-included
+Per Se, at $295 per person, is New York's second most expensive restaurant.
+]
+
+Relevant (Y/N)?y
+Result 10:
+[
+  URL:https://stories.forbestravelguide.com/what-is-the-price-range-for-a-meal-at-per-se
+  Title:What Is The Price Range For A Meal At Per Se? – Forbes Travel ...
+  Summary:Jun 17, 2017 ... Dinner at New York City's Per Se starts at $325, the cost of the nine-course chef's
+tasting menu or the vegetable tasting. (There are two tasting ...
+]
+
+Relevant (Y/N)?y
+The words ninecourse and chefs are the next words to augment the query with.
+===============================
+FEEDBACK SUMMARY
+Query: per se tasting menu
+Precision 1.0
+Desired precision reached, done
+We achieved precision of 1.0! Your desired precision was 0.9
+===============================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+python3 search.py "JSON API" "SEARCH ENGINE ID" 0.9 "jaguar"
+Result 1:
+[
+  URL:https://www.jaguarusa.com/index.html
+  Title:Jaguar Sedans, SUVs and Sports Cars - Official Site | Jaguar USA
+  Summary:The official home of Jaguar USA. Explore our luxury sedans, SUVs and sports
+cars. Build Your Own, Book a Test Drive or Find a Retailer near you.
+]
+
+Relevant (Y/N)?n
+Result 2:
+[
+  URL:https://www.jaguar.com/market-selector.html
+  Title:Market Selector | Jaguar | View the site in your preferred language
+  Summary:Discover the different language sites we have to make browsing our vehicle
+range's easier. We have over 100 different language options available. Learn
+more.
+]
+
+Relevant (Y/N)?n
+Result 3:
+[
+  URL:https://en.wikipedia.org/wiki/Jaguar
+  Title:Jaguar - Wikipedia
+  Summary:The jaguar (Panthera onca) is a large felid species and the only extant member
+of the genus Panthera native to the Americas. The jaguar's present range ...
+]
+
+Relevant (Y/N)?y
+Result 4:
+[
+  URL:https://www.jaguar.com/index.html
+  Title:Jaguar: Luxury Saloons, Performance SUVs & Sports Cars
+  Summary:The official website of Jaguar. Discover our range of vehicles from the XE, XF, XJ,
+F-Type, F-PACE, E-PACE & our all-electric sports car I-PACE.
+]
+
+Relevant (Y/N)?n
+Result 5:
+[
+  URL:https://en.wikipedia.org/wiki/Jaguar_Cars
+  Title:Jaguar Cars - Wikipedia
+  Summary:Jaguar is the luxury vehicle brand of Jaguar Land Rover, a British multinational
+car manufacturer with its headquarters in Whitley, Coventry, England. Jaguar ...
+]
+
+Relevant (Y/N)?n
+Result 6:
+[
+  URL:https://www.jaguarcommunications.com/
+  Title:Jaguar Communication: Fiber Optic - Internet, TV, phone - Business ...
+  Summary:Nov 26, 2019 ... We provide fiber optic solutions to connect our communities in MN, offering
+residential and business network services at the speed of light.
+]
+
+Relevant (Y/N)?n
+Result 7:
+[
+  URL:https://www.nationalgeographic.com/animals/mammals/j/jaguar/
+  Title:Jaguar | National Geographic
+  Summary:Jaguars are the largest of South America's big cats. They once roamed from the
+southern tip of that continent north to the region surrounding the U.S.-Mexico ...
+]
+
+Relevant (Y/N)?y
+Result 8:
+[
+  URL:https://www.instagram.com/jaguar/?hl=en
+  Title:Jaguar (@jaguar) • Instagram photos and videos
+  Summary:11.3m Followers, 281 Following, 2948 Posts - See Instagram photos and videos
+from Jaguar (@jaguar)
+]
+
+Relevant (Y/N)?n
+Result 9:
+[
+  URL:https://www.youtube.com/channel/UCU3MVTYYP82UKA9I_WDpRGw
+  Title:Jaguar - YouTube
+  Summary:Since the first Jaguar car was produced in 1935 we have pushed the boundaries
+of what is possible. We've always believed that a car is the closest thing you ...
+]
+
+Relevant (Y/N)?n
+Result 10:
+[
+  URL:https://www.jaguarmining.com/
+  Title:Jaguar Mining Inc.: Home
+  Summary:Jaguar is a producing gold, development, and exploration company operating in
+the Iron Quadrangle, a prolific greenstone belt located in Minas Gerais, Brazil.
+]
+
+
+
+
+Relevant (Y/N)?n
+The words jaguars and americas are the next words to augment the query with.
+===============================
+FEEDBACK SUMMARY
+Query: jaguar
+Precision 0.2
+Still below the desired precision of 0.9. Beginning another round...
+===============================
+Result 1:
+[
+  URL:https://en.wikipedia.org/wiki/North_American_jaguar
+  Title:North American jaguar - Wikipedia
+  Summary:The North American jaguar is a jaguar (Panthera onca) population in North
+America, from the ... Unlike jaguars in South America, jaguars in Central or North
+America are fairly small. Those in the Chamela-Cuixmala Biosphere Reserve on
+the ...
+]
+
+Relevant (Y/N)?y
+Result 2:
+[
+  URL:https://www.livescience.com/27301-jaguars.html
+  Title:Fun Facts About Jaguars | Live Science
+  Summary:Sep 22, 2017 ... Jaguars are the third-largest big cat in the world after lions and tigers. ... Jaguar
+Facts: Biggest Cat in Americas. By Alina Bradford - Live ...
+]
+
+Relevant (Y/N)?y
+Result 3:
+[
+  URL:https://en.wikipedia.org/wiki/Jaguar
+  Title:Jaguar - Wikipedia
+  Summary:In pre-Columbian Central and South America, the jaguar was ... stylised jaguars
+or humans with jaguar characteristics.
+]
+
+Relevant (Y/N)?y
+Result 4:
+[
+  URL:https://www.nationalgeographic.com/animals/mammals/j/jaguar/
+  Title:Jaguar | National Geographic
+  Summary:Jaguars are the largest of South America's big cats. They once roamed from the
+southern tip of that continent north to the region surrounding the U.S.-Mexico ...
+]
+
+Relevant (Y/N)?y
+Result 5:
+[
+  URL:https://www.jaguarusa.com/index.html
+  Title:Jaguar Sedans, SUVs and Sports Cars - Official Site | Jaguar USA
+  Summary:The official home of Jaguar USA. ... date is the earlier of the new-vehicle retail
+sale or in-use date, as reported to Jaguar Land Rover North America, LLC.
+]
+
+Relevant (Y/N)?n
+Result 6:
+[
+  URL:https://www.smithsonianmag.com/science-nature/return-great-american-jaguar-180960443/
+  Title:The Return of the Great American Jaguar | Science | Smithsonian ...
+  Summary:A team of American and Mexican conservationists do their best to protect the ... In
+theory, jaguars and jaguar habitat enjoy legal protection in the United States ...
+]
+
+Relevant (Y/N)?y
+Result 7:
+[
+  URL:https://defenders.org/wildlife/jaguar
+  Title:Jaguar | Defenders of Wildlife
+  Summary:6 days ago ... The jaguar is the largest cat in the Americas. ... For jaguars to make a comeback
+in the United States, the U.S. Fish and Wildlife Service must ...
+]
+
+Relevant (Y/N)?y
+Result 8:
+[
+  URL:https://www.thedailybeast.com/trumps-wall-threatens-last-jaguars-in-the-us
+  Title:Trump's Wall Threatens Last Jaguars in the U.S.
+  Summary:Jan 17, 2017 ... Jaguars need vast amounts of land to survive and reproduce. There are only two
+males of the species left in the United States—and the closet ...
+]
+
+Relevant (Y/N)?y
+Result 9:
+[
+  URL:https://www.smithsonianmag.com/smart-news/only-known-jaguar-america-finally-caught-video-180958060/
+  Title:The Only Known Jaguar in America Was Finally Caught on Video ...
+  Summary:Feb 5, 2016 ... The Only Known Jaguar in America Was Finally Caught on Video ... All in all,
+there are only about 15,000 jaguars living in the wild today, and El ...
+]
+
+Relevant (Y/N)?y
+Result 10:
+[
+  URL:http://www.unenvironment.org/news-and-stories/story/saving-jaguar-latin-americas-iconic-and-endangered-species
+  Title:Saving the jaguar, Latin America's iconic – and endangered – species
+  Summary:Feb 28, 2018 ... Today's jaguars occupy half the animal's historic range. ... not been enough to
+secure the future of the jaguar, the largest feline in the Americas.
+]
+
+Relevant (Y/N)?y
+The words south and wikipedia are the next words to augment the query with.
+===============================
+FEEDBACK SUMMARY
+Query: jaguar jaguars americas
+Precision 0.9
+Desired precision reached, done
+We achieved precision of 0.9! Your desired precision was 0.9
+===============================
